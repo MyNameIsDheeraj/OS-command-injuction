@@ -78,6 +78,7 @@ This lab is intended for **educational purposes only**. Do **not** use the skill
   - Nmap
   - Nikto
   - Gobuster
+  - Netcat
   - John the Ripper
   - LinPEAS / LinEnum / polkit (for privilege escalation)
 
